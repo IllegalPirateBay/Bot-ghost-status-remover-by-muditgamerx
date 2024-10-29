@@ -14,7 +14,7 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to Slot's Smp: http://localhost:${port}`);
+  console.log(`🔗 Listening to BlockFun: http://localhost:${port}`);
   console.log(`🔗 Powered By Mr_MuditGamerX`);
 });
 
